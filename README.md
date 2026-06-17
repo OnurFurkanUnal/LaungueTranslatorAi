@@ -15,7 +15,7 @@ An AI-powered machine translation application for translating between **Turkish*
 Want to see the translator in action before downloading it?
 
 Watch the demonstration on YouTube:
-[Youtube video link](https://youtu.be/ek5bY4Nz6Qs)
+[Video link](https://youtu.be/ek5bY4Nz6Qs)
 
 ## 📥 Downloads
 
