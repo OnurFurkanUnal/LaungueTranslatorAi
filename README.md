@@ -41,6 +41,12 @@ The primary objective of this project was to validate the architecture and demon
 * Idioms, domain-specific terminology, and long contextual passages may not always be translated accurately.
 * The model is intended as a research and demonstration project rather than a commercial translation service.
 
+## ⚠️ Important Note
+
+Please try running the application before installing anything. On many systems, it may work without any additional setup.
+
+If the application does not start or reports a missing Python runtime, install **Python 3.13.13** and try again. Other Python versions may not be fully compatible and could prevent the application from running correctly.
+
 ## ❤️ Acknowledgements
 
 Thank you for evaluating this prototype and helping assess its capabilities. Your feedback and experimentation are greatly appreciated.
