@@ -6,9 +6,16 @@ An AI-powered machine translation application for translating between **Turkish*
 
 * Turkish → English translation
 * English → Turkish translation
-* ⚡ Fast local inference
+* Local inference
 * 🖥️ Simple desktop application
 * 💻 Available for both Windows and Linux
+
+🎥 Demo
+
+Want to see the translator in action before downloading it?
+
+Watch the demonstration on YouTube:
+https://www.youtube.com/your-video-link
 
 ## 📥 Downloads
 
